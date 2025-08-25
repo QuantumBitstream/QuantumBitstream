@@ -18,3 +18,16 @@ I'm ..., a software engineer from the Earth.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuantumBitstream&show_icons=true)
+
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuantumBitstream&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumBitstream&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
