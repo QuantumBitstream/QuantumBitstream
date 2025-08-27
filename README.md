@@ -7,6 +7,7 @@ I'm ..., a software engineer from the Earth.
 - 🔭 Working on: software
 - 🌱 Learning: data
 - 💬 Ask me about: data
+- 📝 Blogging at: **[.github.io](https://QuantumBitstream.github.io)**
 - 📫 Reach me: @
 - ⚡ Fun fact: @
 
